@@ -7,7 +7,7 @@ hakita please add fraud
 - add gold variants: [doesthiswork](./posts/first_reflection.md)
 
 ## About me
-A short intro (interests, goals, tools I’m learning).
+very cool intro
 
 ---
 *Update this page by editing `index.md` in your repository.*
