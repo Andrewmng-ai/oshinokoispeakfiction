@@ -1,5 +1,5 @@
 # Hi, I'm Andrew
-Welcome to my ICS4U portfolio. I’ll use this site to post my work and reflections.
+hakita please add fraud
 
 ## Highlights
 - 🔧 Project 1: *awesome*
