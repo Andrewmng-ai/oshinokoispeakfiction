@@ -1,5 +1,5 @@
 # Hi, I'm Andrew
-wow
+very cool portfolio for ICS3U0R
 
 ## Highlights
 - cool
@@ -7,7 +7,7 @@ wow
 - code: [doesthiswork](./posts/first_reflection.md)
 
 ## About me
-very cool intro
+i dont know what im doing
 
 ---
 *Update this page by editing `index.md` in your repository.*
