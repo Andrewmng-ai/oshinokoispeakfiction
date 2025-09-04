@@ -1,10 +1,10 @@
 # Hi, I'm Andrew
-hakita please add fraud
+wow
 
 ## Highlights
-- layer 8 would be cool
-- new enemies to the index
-- add gold variants: [doesthiswork](./posts/first_reflection.md)
+- cool
+- awesome
+- code: [doesthiswork](./posts/first_reflection.md)
 
 ## About me
 very cool intro
