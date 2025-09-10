@@ -1,7 +1,7 @@
-# Did you read all that
+# Reflection
 What I learned this week (bullets are fine, you may include an image):
 
-- Topic(s): i dunno what to put here
-- What I struggled with: coding overall
-- What I’m proud of: not giving up or letting you down
-- Next steps: i needa lock in for sem 2 frfr
+- Topic(s): coding, digital citizenship
+- What I struggled with: coding on github
+- What I’m proud of: making a somewhat functional website
+- Next steps: figure out how to improve my coding and other transferable skills 
