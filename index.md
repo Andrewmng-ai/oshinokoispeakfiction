@@ -9,5 +9,6 @@ very cool portfolio for ICS3U0R
 ## About me
 i dont know what im doing
 
+![Alt text](./assets/my-screenshot.png)
 ---
 *Update this page by editing `index.md` in your repository.*
